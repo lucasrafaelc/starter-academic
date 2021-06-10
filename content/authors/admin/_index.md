@@ -9,7 +9,7 @@ interests:
   - Natural Language Processing
   - Computational Linguistics
   - Information Retrieval
-  - DataMining
+  - Data Mining
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,16 +19,16 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.br/citations?user=WDJr0e0AAAAJ&hl=pt-BR
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lucasrafaelc
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: INF - UFRGS
+    url: http://inf.ufrgs.br/
 education:
   courses:
     - course: PhD in Artificial Intelligence
