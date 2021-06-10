@@ -44,9 +44,28 @@ experience:
     description: |2-
         Courses:
         
+        * (2017-2) Prática de Desenvolvimento de Sistemas Web
+        * (2017-2) Desenvolvimento de Sistemas III
+        * (2017-2) Organização e Arquitetura de Computadores
+        * (2017-2) Educação e TICs
+        * (2017-1) Sistemas para Internet 
+        * (2017-1) Algoritmos
+        * (2017-1) Laboratório de Algoritmos
+        * (2017-1) Modelagem e Projeto de Banco de Dados
+        * (2017-1) Sistemas Operacionais
+        * (2017-1) Informática
+        * (2016) Banco de Dados
+        * (2016) Sistemas para Internet
+        * (2016-2) Banco de Dados II
+        * (2016-2) Programação Orientada a Objetos I
+        * (2016-2) Laboratório de Programação Orientada a Objetos I
+        * (2016-1) Banco de Dados I
+        * (2016-1) Algoritmos
+        * (2016-1) Laboratõrio de Algoritmos
+        * (2015-2) Banco de Dados II
+        * (2015-2) Programação II
         * (2015-2) Banco de Dados
-        *          Programação Orientada a Objetos
-        *          ....
+        * (2015-2) Sistemas para Internet
 
 design:
   columns: '2'
