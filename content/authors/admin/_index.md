@@ -23,6 +23,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lucasrafaelc
+  - display:
+      header: false
+    icon_pack: ai
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Lucas-Pessutto
 organizations:
   - name: INF - UFRGS
     url: http://inf.ufrgs.br/
