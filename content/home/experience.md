@@ -25,7 +25,7 @@ experience:
   - title: Substitute Teacher
     company: INF - UFRGS
     company_url: 'http://inf.ufrgs.br/'
-    company_logo: org-gc
+    company_logo: ufrgs
     location: Porto Alegre
     date_start: '2021-03-17'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Substitute Teacher
     company: Federal Institute of Science and Technology of Rio Grande do Sul (IFRS)
     company_url: 'https://ifrs.edu.br/bento/'
-    company_logo: org-x
+    company_logo: ifrs
     location: Bento Gonçalves
     date_start: '2015-12-01'
     date_end: '2017-12-01'
