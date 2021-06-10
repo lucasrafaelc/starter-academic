@@ -14,20 +14,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lrcpessutto@inf.ufrgs.br
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/lucasrafaelc/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.br/citations?user=WDJr0e0AAAAJ&hl=pt-BR
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/lucasrafaelc
   - display:
       header: false
     icon_pack: ai
     icon: researchgate
     link: https://www.researchgate.net/profile/Lucas-Pessutto
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lucasrafaelc
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/lucasrafaelc/
 organizations:
   - name: INF - UFRGS
     url: http://inf.ufrgs.br/
