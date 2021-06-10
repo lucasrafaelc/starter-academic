@@ -32,7 +32,7 @@ experience:
     description: |2-
         Courses:
         
-        * (2020-2) INF0102 - Algoritmos e Programação
+        * (2020-2) INF0102 - Algoritmos e Programação [Ciên. da Computação - Eng. de Computação - Eng. Elétrica - Eng. Controle e Automação]
         
   - title: Substitute Teacher
     company: Federal Institute of Science and Technology of Rio Grande do Sul (IFRS)
@@ -44,28 +44,28 @@ experience:
     description: |2-
         Courses:
         
-        * (2017-2) Prática de Desenvolvimento de Sistemas Web
-        * (2017-2) Desenvolvimento de Sistemas III
-        * (2017-2) Organização e Arquitetura de Computadores
-        * (2017-2) Educação e TICs
-        * (2017-1) Sistemas para Internet 
-        * (2017-1) Algoritmos
-        * (2017-1) Laboratório de Algoritmos
-        * (2017-1) Modelagem e Projeto de Banco de Dados
-        * (2017-1) Sistemas Operacionais
-        * (2017-1) Informática
-        * (2016) Banco de Dados
-        * (2016) Sistemas para Internet
-        * (2016-2) Banco de Dados II
-        * (2016-2) Programação Orientada a Objetos I
-        * (2016-2) Laboratório de Programação Orientada a Objetos I
-        * (2016-1) Banco de Dados I
-        * (2016-1) Algoritmos
-        * (2016-1) Laboratõrio de Algoritmos
-        * (2015-2) Banco de Dados II
-        * (2015-2) Programação II
-        * (2015-2) Banco de Dados
-        * (2015-2) Sistemas para Internet
+        * (2017-2) Prática de Desenvolvimento de Sistemas Web [Téc. Informática para Internet]
+        * (2017-2) Desenvolvimento de Sistemas III [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2017-2) Organização e Arquitetura de Computadores [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2017-2) Educação e TICs [Pedagogia]
+        * (2017-1) Sistemas para Internet [Téc. Informática para Internet]
+        * (2017-1) Algoritmos [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2017-1) Laboratório de Algoritmos [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2017-1) Modelagem e Projeto de Banco de Dados [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2017-1) Sistemas Operacionais [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2017-1) Informática [Tecnól. Logística]
+        * (2016) Banco de Dados [Téc. Informática para Internet]
+        * (2016) Sistemas para Internet [Téc. Informática para Internet]
+        * (2016-2) Banco de Dados II [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2016-2) Programação Orientada a Objetos I [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2016-2) Laboratório de Programação Orientada a Objetos I [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2016-1) Banco de Dados I [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2016-1) Algoritmos [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2016-1) Laboratõrio de Algoritmos [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2015-2) Banco de Dados II [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2015-2) Programação II [Tecnól. Análise e Desenvolvimento de Sistemas]
+        * (2015-2) Banco de Dados [Téc. Informática para Internet]
+        * (2015-2) Sistemas para Internet [Téc. Informática para Internet]
 
 design:
   columns: '2'
