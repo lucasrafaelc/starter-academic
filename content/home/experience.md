@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Substitute Teacher
+    company: INF - UFRGS
+    company_url: 'http://inf.ufrgs.br/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Porto Alegre
+    date_start: '2021-03-17'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Courses:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * (2020-2) INF0102 - Algoritmos e Programação
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Substitute Teacher
+    company: Federal Institute of Science and Technology of Rio Grande do Sul (IFRS)
+    company_url: 'https://ifrs.edu.br/bento/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bento Gonçalves
+    date_start: '2015-12-01'
+    date_end: '2017-12-01'
+    description: |2-
+        Courses:
+        
+        * (2015-2) Banco de Dados
+        *          Programação Orientada a Objetos
+        *          ....
 
 design:
   columns: '2'
