@@ -1,23 +1,24 @@
 ---
-title: "An example conference paper"
+title: "Clustering Multilingual Aspect Phrases for Sentiment Analysis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Danny Suarez Vargas
+- Viviane P Moreira
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2018"
+doi: "10.1109/WI.2018.00-91"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,15 +27,15 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI)*
+publication_short: In *WI 2018*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The area of sentiment analysis has experienced significant developments in the last few years. More specifically, there has been growing interest in aspect-based sentiment analysis in which the goal is to extract, group, and rate the overall opinion about the features of the entity being evaluated. Techniques for aspect extraction can produce an undesirably large number of aspects - with many of those relating to the same product feature. This problem is aggravated when the reviews are written in many languages. In this paper, we address the novel task of multilingual aspect clustering which aims at grouping together the aspects extracted from reviews written in several languages. We contribute with a proposal of techniques to tackle this problem and test them on reviews written in five languages. Our experiments show that our unsupervised clustering technique achieves results that outperform a semi-supervised baseline in many cases.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#Summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Aspect-Based Sentiment Analysis,Multilingual Aspect Clustering,Unsupervised Learning,Word Embeddings]
 
 # Display this page in the Featured widget?
 featured: true
