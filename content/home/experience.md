@@ -32,6 +32,7 @@ experience:
     description: |2-
         Courses:
         
+        * (2021-1) INF0102 - Algoritmos e Programação [Ciên. da Computação - Eng. de Computação - Eng. Elétrica - Eng. Controle e Automação]
         * (2020-2) INF0102 - Algoritmos e Programação [Ciên. da Computação - Eng. de Computação - Eng. Elétrica - Eng. Controle e Automação]
         
   - title: Substitute Teacher
